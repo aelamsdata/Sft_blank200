@@ -1,0 +1,86 @@
+{
+    "acquisition_software": "pychron 20.1",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.1",
+    "comment": "",
+    "commit": "c717de71df604a0a33a59e8878aa3a12595bc1bb",
+    "conditionals": null,
+    "data_reduction_software": "pychron 20.1",
+    "detectors": {
+        "Cup": {
+            "deflection": 0.0,
+            "gain": 1.0
+        },
+        "SEM": {
+            "deflection": 0.0,
+            "gain": 0.0
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Test",
+    "experiment_type": "Generic",
+    "extraction": "sft_debug.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "3",
+    "increment": null,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "",
+    "irradiation_level": "",
+    "irradiation_position": "",
+    "isotopes": {
+        "He3": {
+            "detector": "SEM",
+            "name": "He3",
+            "serial_id": "cdd"
+        },
+        "He4": {
+            "detector": "Cup",
+            "name": "He4",
+            "serial_id": "thermo"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Sft",
+    "material": "Blank",
+    "measurement": "sft_he120_60.py",
+    "post_equilibration": "sft_post_eq_he.py",
+    "post_measurement": "sft_he.py",
+    "principal_investigator": "AELAMS",
+    "project": "REFERENCES",
+    "queue_conditionals_name": "",
+    "repository_identifier": "Sft_blank200",
+    "rlocation": "",
+    "sample": "BlankHeAir",
+    "source": {
+        "emission": 1352.51,
+        "trap": 398.644
+    },
+    "spec_sha": "2edcdf48a55044f6f936c11955d3f4fc7ec8deb0",
+    "timestamp": "2020-05-08T12:58:27.144156",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "e4c917ae-cdca-47eb-822e-3c020cd29c86",
+    "whiff_result": null
+}
