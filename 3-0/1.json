@@ -73,14 +73,14 @@
     "rlocation": "",
     "sample": "BlankHeAir",
     "source": {
-        "emission": 1350.929,
-        "trap": 399.091
+        "emission": 1349.834,
+        "trap": 397.86
     },
     "spec_sha": "2edcdf48a55044f6f936c11955d3f4fc7ec8deb0",
-    "timestamp": "2020-05-08T14:08:33.723962",
+    "timestamp": "2020-05-08T14:20:47.070583",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "064511d5-db32-4e96-af6b-5aa049731faf",
+    "uuid": "027e94f5-6e79-4f57-9166-4ef1f85668e4",
     "whiff_result": null
 }
