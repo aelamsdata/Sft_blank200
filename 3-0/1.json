@@ -12,7 +12,7 @@
     },
     "collection_version": "1.0:2.1",
     "comment": "",
-    "commit": "24a0452618178eff8ad28a50b63cd5cb85d3fb6b",
+    "commit": "c2dacc29adeea66f7bb22bca2fa2479daab09c7f",
     "conditionals": null,
     "data_reduction_software": "pychron 20.1",
     "detectors": {
@@ -73,14 +73,14 @@
     "rlocation": "",
     "sample": "BlankHeAir",
     "source": {
-        "emission": 1353.727,
-        "trap": 398.196
+        "emission": 1352.145,
+        "trap": 398.42
     },
     "spec_sha": "2edcdf48a55044f6f936c11955d3f4fc7ec8deb0",
-    "timestamp": "2020-05-08T14:36:59.224299",
+    "timestamp": "2020-05-08T14:45:59.181261",
     "tripped_conditional": null,
     "unit": "",
     "username": "root",
-    "uuid": "7617833f-4ca7-46b9-8b1f-0416237520e1",
+    "uuid": "0a949340-8620-4837-84ed-ff9192b14ec4",
     "whiff_result": null
 }
