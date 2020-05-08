@@ -8,7 +8,7 @@
     "extract_value": 0.0,
     "extraction_context": {},
     "grain_polygons": [],
-    "light_value": null,
+    "light_value": 0,
     "load_holder": "",
     "load_name": "",
     "measured_response": null,
