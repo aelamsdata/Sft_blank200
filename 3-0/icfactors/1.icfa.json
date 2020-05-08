@@ -1,0 +1,14 @@
+{
+    "Cup": {
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    },
+    "SEM": {
+        "error": 1e-20,
+        "fit": "default",
+        "references": [],
+        "value": 1.0
+    }
+}
